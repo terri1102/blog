@@ -10,7 +10,7 @@ const CONFIG = {
     github: "terri1102",
     instagram: "",
   },
-  // projects: [
+  projects: [],
   //   {
   //     name: `bytesizeponderings`,
   //     href: "https://github.com/terri1102/morethan-log",
