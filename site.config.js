@@ -6,16 +6,16 @@ const CONFIG = {
     role: "AI Engineer",
     bio: "",
     email: "terricodes@gmail.com",
-    linkedin: "Boyoon Jang",
+    linkedin: "boyoon-jang-364661258",
     github: "terri1102",
     instagram: "",
   },
-  projects: [
-    {
-      name: `bytesizeponderings`,
-      href: "https://github.com/terri1102/morethan-log",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `bytesizeponderings`,
+  //     href: "https://github.com/terri1102/morethan-log",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "ByteSizePonderings",
