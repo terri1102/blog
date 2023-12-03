@@ -10,12 +10,12 @@ const CONFIG = {
     github: "terri1102",
     instagram: "",
   },
-  projects: [],
-  //   {
-  //     name: `bytesizeponderings`,
-  //     href: "https://github.com/terri1102/morethan-log",
-  //   },
-  // ],
+  projects:[
+    {
+      name: ``,
+      href: "",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "ByteSizePonderings",
