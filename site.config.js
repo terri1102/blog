@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "ByteSizePonderings",
-    description: "welcome to my blog",
+    description: "Welcome to my blog!",
   },
 
   // CONFIG configration (required)
